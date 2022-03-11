@@ -14,6 +14,11 @@ My courses at UCL are:
 7. COMP0087 Statistical Natural Language Processing
 8. COMP0081 Applied Machine Learning
 
+### Education Background
+
+2021.09 - Present     UCL     MSc Computational Statistics and Machine Learning<br>
+2018.09 - 2021.06     University of Machester     BSc Physics with Theoretical Physics (_First Class with Honours_)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
