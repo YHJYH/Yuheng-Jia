@@ -19,6 +19,13 @@ My courses at UCL are:
 2021.09 - Present     UCL     MSc Computational Statistics and Machine Learning<br>
 2018.09 - 2021.06     University of Machester     BSc Physics with Theoretical Physics (_First Class with Honours_)
 
+### Projects 
+Some of interesting projects I have done:
+1. [Using C++ to Realize Chinese Chess Double Player's Battle](https://github.com/YHJYH/CPP-Chinese-Chess)
+2. [Regularized DenseNet: with Cutout](https://github.com/YHJYH/Machine_Learning/tree/main/projects/DenseNet%20%2B%20Cutout)
+3. Prevent Shortcut Learning in Deep Convolution Neural Networks (Master thesis, in progress)
+4. Unsupervised Opinion Summerization (NLP Project, in progress)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
