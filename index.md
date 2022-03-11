@@ -2,7 +2,17 @@
 
 You can see my LinkedIn profile here [Yuheng](https://www.linkedin.com/in/yuheng-jia-00200116b/).
 
-I am currently live in London, UK, and I am **open for hire**.
+I am currently live in London, UK, and I am looking for position in Machine Learning Engineer.
+
+My courses at UCL are:
+1. COMP0078 Supervised Learning
+2. COMP0086 Probabilistic and Unsupervised Learning (Gatsby Computational Neuroscience Unit)
+3. COMP0090 Introduction to Deep Learning
+4. STAT0028 Statistical Modelling and Data Analysis
+5. COMP0089 Reinforcement Learning (Google Deepmind)
+6. COMP0175 Statistical Learning Theory
+7. COMP0087 Statistical Natural Language Processing
+8. COMP0081 Applied Machine Learning
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
