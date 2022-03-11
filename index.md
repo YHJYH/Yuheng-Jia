@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my homepage
 
-You can use the [editor on GitHub](https://github.com/YHJYH/personal_homepage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can see my LinkedIn profile here [Yuheng](https://www.linkedin.com/in/yuheng-jia-00200116b/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
