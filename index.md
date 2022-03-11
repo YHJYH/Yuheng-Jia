@@ -2,6 +2,8 @@
 
 You can see my LinkedIn profile here [Yuheng](https://www.linkedin.com/in/yuheng-jia-00200116b/).
 
+I am currently live in London, UK, and I am **open for hire**.
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
