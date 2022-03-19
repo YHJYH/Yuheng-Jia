@@ -26,6 +26,7 @@ Bachelar Thesis: Nitrogen Vacancy Centre in Diamonds. Under guidance of [Dr. Tho
 Experiments: 
 - Geiger Counting (2019)
 - Influence on Amplification Ability of Thermionic Triode under Combined Fields (2020). 
+
 Under guidance of [Dr. Paul Walmsley](https://www.research.manchester.ac.uk/portal/paul.walmsley.html).
 
 ### Projects 
