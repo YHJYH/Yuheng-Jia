@@ -25,6 +25,7 @@ Academic Supervisor: [Prof. Fedor Bezrukov](https://www.hep.manchester.ac.uk/u/b
 Bachelar Thesis: "Nitrogen Vacancy Centre in Diamonds". Under guidance of [Dr. Thomas Waigh](https://www.research.manchester.ac.uk/portal/t.a.waigh.html).<br>
 Experiments, under guidance of [Dr. Paul Walmsley](https://www.research.manchester.ac.uk/portal/paul.walmsley.html):
 - "Geiger Counting" (2019)
+- "The Relation between Resistance and Temperature in Different Materials" (2020)
 - "Influence on Amplification Ability of Thermionic Triode under Combined Fields" (2020)
 
 ### Projects 
