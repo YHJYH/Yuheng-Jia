@@ -16,11 +16,11 @@ My courses at UCL are:
 
 ### Education Background
 
-2021.09 - Present     UCL     MSc Computational Statistics and Machine Learning<br>
+2021.09 - Present     _UCL_     **MSc Computational Statistics and Machine Learning**<br>
 Academic Supervisor: [Prof. Carlo Ciliberto](https://cciliber.github.io/).<br>
 Master Thesis (in progress): Prevent Shortcut Learning in Deep CNN. Under guidance of Dr. Nikolay Dagaev and [Prof. Bradley C. Love](http://bradlove.org/).
 
-2018.09 - 2021.06     University of Machester     BSc Physics with Theoretical Physics (_First Class with Honours_)<br>
+2018.09 - 2021.06     _University of Machester_     **BSc Physics with Theoretical Physics** (_First Class with Honours_)<br>
 Academic Supervisor: [Prof. Fedor Bezrukov](https://www.hep.manchester.ac.uk/u/bezrukov/).<br>
 Bachelar Thesis: Nitrogen Vacancy Centre in Diamonds. Under guidance of [Dr. Thomas Waigh](https://www.research.manchester.ac.uk/portal/t.a.waigh.html).<br>
 Experiments: 
