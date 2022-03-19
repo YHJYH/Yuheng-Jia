@@ -32,5 +32,5 @@ Some of interesting projects I have done:
 1. Prevent Shortcut Learning in Deep Convolution Neural Networks (Master thesis, in progress)
 2. Unsupervised Opinion Summerization (NLP Project, in progress)
 3. [Effect of task relatedness on MTL via MMOE](https://github.com/YHJYH/Machine_Learning/tree/main/projects/Multi%20Task%20Learning) (Deep Learning project)
-4. [Regularized DenseNet: with Cutout](https://github.com/YHJYH/Machine_Learning/tree/main/projects/DenseNet%20%2B%20Cutout)
+4. [Regularized DenseNet: with Cutout](https://github.com/YHJYH/Machine_Learning/tree/main/projects/DenseNet%20%2B%20Cutout) (Deep Learning project)
 5. [Using C++ to Realize Chinese Chess Double Player's Battle](https://github.com/YHJYH/CPP-Chinese-Chess)
