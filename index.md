@@ -2,7 +2,9 @@
 
 You can see my LinkedIn profile here [Yuheng](https://www.linkedin.com/in/yuheng-jia-00200116b/).
 
-I am currently live in London, UK, and I am looking for position in Machine Learning Engineer.
+My ambition is to become a full-stack Machine Learning Research Scientist, I am still working on it.
+
+I am currently live in London, UK, and I am looking for permanent job or internship in Machine Learning Engineer.
 
 My courses at UCL are:
 1. COMP0078 Supervised Learning
