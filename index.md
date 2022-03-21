@@ -39,7 +39,7 @@ Some of interesting projects I have done:
 5. [Kernel perceptron (Handwritten Digit Classification)](https://github.com/YHJYH/Machine_Learning/tree/main/projects/kernel_perceptron#kernel-perceptron-handwritten-digit-classification-comp0078-supervised-learning-coursework) (Supervised Learning project)
 6. [Using C++ to Realize Chinese Chess Double Player's Battle](https://github.com/YHJYH/CPP-Chinese-Chess)
 
-### Hobbies
+### Hobbies & Interests
 I enjoy learning new things.<br>
 Sports: I like playing tennis and skiing.<br>
 I am a huge fan of anime series "Attack on Titan".
