@@ -23,4 +23,10 @@ layout: default
 - [SVD](https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm#:~:text=The%20singular%20values%20are%20the,and%20V%20are%20also%20real.) (singular value decomposition)
 - [unitary matrix](https://mathworld.wolfram.com/UnitaryMatrix.html) (unitary basis: each row has length one, and their Hermitian inner product is zero.)
 
+### relations
+- [Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality)
+- [Chebyshev's inequality]
+- [Markov inequality]
+- [Mcdiarmid inequality]
+
 [back](../)
