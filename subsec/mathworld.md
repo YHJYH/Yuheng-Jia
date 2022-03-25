@@ -16,4 +16,4 @@ norm<br>
 - [natural norm](https://mathworld.wolfram.com/NaturalNorm.html)
 
 
-[back](./)
+[back](../)
