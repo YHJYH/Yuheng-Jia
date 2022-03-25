@@ -29,4 +29,8 @@ layout: default
 - [Markov inequality]
 - [Mcdiarmid inequality]
 
+### operators
+- [Laplacian operator](https://mathworld.wolfram.com/Laplacian.html) (twice differentiation)
+
+
 [back](../)
