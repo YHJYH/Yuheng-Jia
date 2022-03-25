@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Math Notes (for my Statistical Learning Theory course)
-norm<br>
+### norm
 - [matrix norm](https://mathworld.wolfram.com/MatrixNorm.html)
     - [L1/p1 norm](https://mathworld.wolfram.com/MaximumAbsoluteColumnSumNorm.html) (Maximum Absolute Column Sum norm)
     - [L2/p2 norm](https://mathworld.wolfram.com/SpectralNorm.html) (Spectral norm)
@@ -15,5 +15,8 @@ norm<br>
     - [L_infinity norm](https://mathworld.wolfram.com/L-Infinity-Norm.html)
 - [natural norm](https://mathworld.wolfram.com/NaturalNorm.html)
 
+### matrix
+- [Conjugate transpose](https://mathworld.wolfram.com/ConjugateTranspose.html) (* or H)
+- [Hermitian matrix](https://mathworld.wolfram.com/HermitianMatrix.html)
 
 [back](../)
