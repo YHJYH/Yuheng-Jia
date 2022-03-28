@@ -11,5 +11,6 @@ layout: default
 [Scale-Location](https://boostedml.com/2019/03/linear-regression-plots-scale-location-plot.html)<br>
 [Q-Q plot](https://boostedml.com/2019/03/linear-regression-plots-how-to-read-a-qq-plot.html)
 - [Q-Q plot interpretation](https://stats.stackexchange.com/questions/101274/how-to-interpret-a-qq-plot/101290#101290)
+[summary(mylm)](https://stats.stackexchange.com/a/59251)
  
 [back](../)
