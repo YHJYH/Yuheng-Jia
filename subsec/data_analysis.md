@@ -6,6 +6,7 @@ layout: default
 [confidence interval](https://www.investopedia.com/terms/c/confidenceinterval.asp#:~:text=A%20confidence%20interval%20displays%20the,of%2095%25%20or%2099%25.)<br>
 [t-test](https://www.investopedia.com/terms/t/t-test.asp)<br>
 [p-value](https://www.scribbr.com/statistics/p-value/)<br>
+[p-value and hypothesis test](https://www.simplypsychology.org/p-value.html)(better)<br>
 [p-value and hypothesis test](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)<br>
 
 ### R plots interpretation
