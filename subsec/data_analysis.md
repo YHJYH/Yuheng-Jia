@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+## Statistics and Probability (for my STAT0028 Statistical Model and Data Analysis)
 
 ### Statistics
 [confidence interval](https://www.investopedia.com/terms/c/confidenceinterval.asp#:~:text=A%20confidence%20interval%20displays%20the,of%2095%25%20or%2099%25.)<br>
