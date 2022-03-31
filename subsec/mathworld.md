@@ -32,5 +32,8 @@ layout: default
 ### operators
 - [Laplacian operator](https://mathworld.wolfram.com/Laplacian.html) (twice differentiation)
 
+### linear algebra
+- [functional](https://en.wikipedia.org/wiki/Functional_(mathematics)) f → f(x)
+
 
 [back](../)
