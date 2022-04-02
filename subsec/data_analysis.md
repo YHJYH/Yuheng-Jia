@@ -8,6 +8,7 @@ layout: default
 [t-distribution](https://www.jmp.com/en_gb/statistics-knowledge-portal/t-test/t-distribution.html#:~:text=The%20t%2Ddistribution%20describes%20the,from%20a%20normally%20distributed%20population.)(student's t-distribution)<br>
 [t-test](https://www.investopedia.com/terms/t/t-test.asp)<br>
 [p-value](https://www.scribbr.com/statistics/p-value/)<br>
+[find p-value from t-statistic](https://www.statology.org/how-to-calculate-a-p-value-from-a-t-test-by-hand/)<br>
 [p-value and hypothesis test](https://www.simplypsychology.org/p-value.html)(better)<br>
 [p-value and hypothesis test](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)<br>
 
