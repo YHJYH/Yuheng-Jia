@@ -41,6 +41,7 @@ Some of interesting projects I have done:
 
 ### Small projects
 1. [Tweet Emotion Recognition](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Tweet_Emotion_Recognition.ipynb)
+2. [Image Augmentation and Segmentation using Pytorch](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Image_Segmentation_Pytorch.ipynb)
 
 ### Hobbies & Interests
 I enjoy learning new things.<br>
