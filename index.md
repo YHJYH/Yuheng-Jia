@@ -40,7 +40,7 @@ Some of interesting projects I have done:
 6. [Using C++ to Realize Chinese Chess Double Player's Battle](https://github.com/YHJYH/CPP-Chinese-Chess)
 
 ### Small projects
-1. [Tweet Emotion Recognition](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Tweet_Emotion_Recognition.ipynb)
+1. [Tweet Emotion Recognition using Tensorflow](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Tweet_Emotion_Recognition.ipynb)
 2. [Image Augmentation and Segmentation using Pytorch](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Image_Segmentation_Pytorch.ipynb)
 
 ### Hobbies & Interests
