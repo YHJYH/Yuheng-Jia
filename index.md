@@ -40,10 +40,11 @@ Some of interesting projects I have done:
 6. [Using C++ to Realize Chinese Chess Double Player's Battle](https://github.com/YHJYH/CPP-Chinese-Chess)
 
 ### Small projects
-1. [Tweet Emotion Recognition using Tensorflow](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Tweet_Emotion_Recognition.ipynb)
-2. [Image Augmentation and Segmentation using Pytorch](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Image_Segmentation_Pytorch.ipynb)
-3. [Object Localization using Pytorch](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Object_Localization_Pytorch.ipynb)
-4. [Neural Style Transfer using Pytorch](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Neural_Style_Transfer_using_Pytorch.ipynb)
+1. [Tweet Emotion Recognition with Tensorflow](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Tweet_Emotion_Recognition.ipynb)
+2. [Image Augmentation and Segmentation with Pytorch](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Image_Segmentation_Pytorch.ipynb)
+3. [Object Localization with Pytorch](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Object_Localization_Pytorch.ipynb)
+4. [Neural Style Transfer with Pytorch](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Neural_Style_Transfer_using_Pytorch.ipynb)
+5. [Aerial Image Segmentation with Pytorch](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Aerial_Image_Segmentation.ipynb)
 
 ### Hobbies & Interests
 I enjoy learning new things.<br>
