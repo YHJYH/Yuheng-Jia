@@ -4,7 +4,12 @@ layout: default
 ## Statistics and Probability (for my STAT0028 Statistical Model and Data Analysis)
 
 ### Statistics
-[bivariate normal distribution](https://mathworld.wolfram.com/BivariateNormalDistribution.html): Rice sec.3.3 Example F.<br>
+[bivariate normal distribution](https://mathworld.wolfram.com/BivariateNormalDistribution.html)(2 independent random variables): Rice sec 3.3 Example F.<br>
+- marginal distribution of one of the two vairables;
+- conditional distribution of one of the two variables: Rice sec 3.5.2 Example C.
+- covariance & correlation: Rice sec 4.3 Example F.
+- conditional mean/expectation & conditional variance: Rice sec 4.4.1 Example B.
+[multivariate normal distribution]()<br>
 [confidence interval](https://www.investopedia.com/terms/c/confidenceinterval.asp#:~:text=A%20confidence%20interval%20displays%20the,of%2095%25%20or%2099%25.)<br>
 [covariance](https://mathworld.wolfram.com/Covariance.html)<br>
 [f-statistic](https://stattrek.com/probability-distributions/f-distribution.aspx)(F-distribution)<br>
