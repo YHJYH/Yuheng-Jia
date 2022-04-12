@@ -10,8 +10,11 @@ layout: default
 [t-test](https://www.investopedia.com/terms/t/t-test.asp)<br>
 [p-value](https://www.scribbr.com/statistics/p-value/)<br>
 [find p-value from t-statistic](https://www.statology.org/how-to-calculate-a-p-value-from-a-t-test-by-hand/)<br>
-[p-value and hypothesis test](https://www.simplypsychology.org/p-value.html)(better)<br>
+[p-value and hypothesis test](https://www.simplypsychology.org/p-value.html)(better): if p < 0.05, null hypothesis is againsted/regected.<br>
 [p-value and hypothesis test](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)<br>
+<br>
+[Mann-Whitney test](https://www.statisticshowto.com/mann-whitney-u-test/): continuous explanatory variables; independent, categorical response; independent, non-normally distributed observations follow the same shape; <br>
+[Neyman-Pearson test](https://www.statisticshowto.com/neyman-pearson-lemma/): based on a simple hypothesis test where the unknown parameters are specified as single values, e.g. = 0, not > 0.  <br>
 
 ### R plots interpretation
 [Residuals vs Fitted](https://boostedml.com/2019/03/linear-regression-plots-fitted-vs-residuals.html)<br>
