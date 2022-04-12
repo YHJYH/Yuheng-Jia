@@ -4,7 +4,9 @@ layout: default
 ## Statistics and Probability (for my STAT0028 Statistical Model and Data Analysis)
 
 ### Statistics
+[bivariate normal distribution](https://mathworld.wolfram.com/BivariateNormalDistribution.html): Rice sec.3.3 Example F.<br>
 [confidence interval](https://www.investopedia.com/terms/c/confidenceinterval.asp#:~:text=A%20confidence%20interval%20displays%20the,of%2095%25%20or%2099%25.)<br>
+[covariance](https://mathworld.wolfram.com/Covariance.html)<br>
 [f-statistic](https://stattrek.com/probability-distributions/f-distribution.aspx)(F-distribution)<br>
 [t-distribution](https://www.jmp.com/en_gb/statistics-knowledge-portal/t-test/t-distribution.html#:~:text=The%20t%2Ddistribution%20describes%20the,from%20a%20normally%20distributed%20population.)(student's t-distribution)<br>
 [t-test](https://www.investopedia.com/terms/t/t-test.asp)<br>
