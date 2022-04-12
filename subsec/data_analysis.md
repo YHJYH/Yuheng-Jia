@@ -11,6 +11,9 @@ layout: default
 - conditional mean/expectation & conditional variance: Rice sec 4.4.1 Example B.
 
 [multivariate normal distribution](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjkj8W0rY_3AhXHa8AKHWlWDu0QFnoECAYQAQ&url=https%3A%2F%2Fnoahgolmant.com%2Fwritings%2Fderivationsunivariatemultivariate.pdf&usg=AOvVaw0YovyoGH4S9CazCHHnAHDu)<br>
+vector-valued random variables: Rice sec 14.4.1
+- expectation & variance: Rice sec 14.4.1 theorem A, B.
+- 
 [confidence interval](https://www.investopedia.com/terms/c/confidenceinterval.asp#:~:text=A%20confidence%20interval%20displays%20the,of%2095%25%20or%2099%25.)<br>
 [covariance](https://mathworld.wolfram.com/Covariance.html)<br>
 [f-statistic](https://stattrek.com/probability-distributions/f-distribution.aspx)(F-distribution)<br>
