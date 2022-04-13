@@ -2,7 +2,7 @@
 
 You can see my LinkedIn profile here [Yuheng](https://www.linkedin.com/in/yuheng-jia-00200116b/).
 
-My ambition is to become a full-stack Machine Learning Research Scientist, I am still working on it.
+My ambition is to become a full-stack Machine Learning Engineer, I am still working on it.
 
 I am currently live in London, UK, and I am looking for permanent job or internship in Machine Learning Engineer.
 
