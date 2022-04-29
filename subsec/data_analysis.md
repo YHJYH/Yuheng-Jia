@@ -24,6 +24,8 @@ common continuous probability distributions<br>
 - [Beta distribution](https://www.kdnuggets.com/2019/09/beta-distribution-what-when-how.html)
 - [Gamma distribution]()
 
+[correlation](https://en.wikipedia.org/wiki/Correlation#:~:text=The%20population%20correlation,is%20defined%20as%3A) Exercise 7 Q3b<br>
+[covariates](https://methods.sagepub.com/reference/encyc-of-research-design/n85.xml#:~:text=a%20potential%20covariate.-,A%20covariate%20is%20thus%20a%20possible%20predictive%20or%20explanatory%20variable%20of%20the%20dependent%20variable.,-This%20may%20be)Exercise Q7b<br>
 [confidence interval](https://www.investopedia.com/terms/c/confidenceinterval.asp#:~:text=A%20confidence%20interval%20displays%20the,of%2095%25%20or%2099%25.)<br>
 [covariance](https://mathworld.wolfram.com/Covariance.html)<br>
 [f-statistic](https://stattrek.com/probability-distributions/f-distribution.aspx)(F-distribution)<br>
