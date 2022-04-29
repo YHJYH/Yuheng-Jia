@@ -22,7 +22,8 @@ common discrete probability distributions<br>
 
 common continuous probability distributions<br>
 - [Beta distribution](https://www.kdnuggets.com/2019/09/beta-distribution-what-when-how.html)
-- [Gamma distribution]()
+- [Gamma distribution](https://statisticsbyjim.com/probability/gamma-distribution/)
+- [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution#:~:text=It%20states%20that%2C-,under%20some%20conditions%2C%20the%20average%20of%20many%20samples%20(observations)%20of%20a%20random%20variable%20with%20finite%20mean%20and%20variance%20is%20itself%20a%20random%20variable%E2%80%94whose%20distribution%20converges%20to%20a%20normal%20distribution%20as%20the%20number%20of%20samples%20increases.,-Therefore%2C%20physical%20quantities)
 
 [correlation](https://en.wikipedia.org/wiki/Correlation#:~:text=The%20population%20correlation,is%20defined%20as%3A) Exercise 7 Q3b<br>
 [covariates](https://methods.sagepub.com/reference/encyc-of-research-design/n85.xml#:~:text=a%20potential%20covariate.-,A%20covariate%20is%20thus%20a%20possible%20predictive%20or%20explanatory%20variable%20of%20the%20dependent%20variable.,-This%20may%20be)Exercise Q7b<br>
