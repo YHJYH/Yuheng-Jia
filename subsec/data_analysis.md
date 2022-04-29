@@ -13,7 +13,17 @@ layout: default
 [multivariate normal distribution](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjkj8W0rY_3AhXHa8AKHWlWDu0QFnoECAYQAQ&url=https%3A%2F%2Fnoahgolmant.com%2Fwritings%2Fderivationsunivariatemultivariate.pdf&usg=AOvVaw0YovyoGH4S9CazCHHnAHDu)<br>
 vector-valued random variables: Rice sec 14.4.1
 - expectation & variance: Rice sec 14.4.1 theorem A, B.
-- 
+
+common discrete probability distributions<br>
+- [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)
+- [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
+- [Bernoulli distribution](https://en.wikipedia.org/wiki/Bernoulli_distribution)
+- [Geometric distribution](https://en.wikipedia.org/wiki/Geometric_distribution)
+
+common continuous probability distributions<br>
+- [Beta distribution](https://www.kdnuggets.com/2019/09/beta-distribution-what-when-how.html)
+- [Gamma distribution]()
+
 [confidence interval](https://www.investopedia.com/terms/c/confidenceinterval.asp#:~:text=A%20confidence%20interval%20displays%20the,of%2095%25%20or%2099%25.)<br>
 [covariance](https://mathworld.wolfram.com/Covariance.html)<br>
 [f-statistic](https://stattrek.com/probability-distributions/f-distribution.aspx)(F-distribution)<br>
