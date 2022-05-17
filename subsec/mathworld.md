@@ -27,7 +27,7 @@ layout: default
 - [Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality)
 - [Chebyshev's inequality](https://en.wikipedia.org/wiki/Markov%27s_inequality#:~:text=%5Bedit%5D-,Chebyshev%27s%20inequality,-%5Bedit%5D)
 - [Markov inequality](https://en.wikipedia.org/wiki/Markov%27s_inequality#:~:text=External%20links-,Statement,-%5Bedit%5D)
-- [Mcdiarmid inequality]
+- [Mcdiarmid inequality](https://www.cs.columbia.edu/~djhsu/coms4995-s20/lectures/mcdiarmid-notes.pdf)
 
 ### operators
 - [Laplacian operator](https://mathworld.wolfram.com/Laplacian.html) (twice differentiation)
