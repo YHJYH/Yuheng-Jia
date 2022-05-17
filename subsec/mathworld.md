@@ -25,7 +25,7 @@ layout: default
 
 ### relations
 - [Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality)
-- [Chebyshev's inequality]
+- [Chebyshev's inequality](https://en.wikipedia.org/wiki/Markov%27s_inequality#:~:text=%5Bedit%5D-,Chebyshev%27s%20inequality,-%5Bedit%5D)
 - [Markov inequality](https://en.wikipedia.org/wiki/Markov%27s_inequality#:~:text=External%20links-,Statement,-%5Bedit%5D)
 - [Mcdiarmid inequality]
 
