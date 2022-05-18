@@ -29,7 +29,7 @@ layout: default
 
 ### relations
 - [Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality)
-- [Cauchy-Schwarz equality](https://people.math.osu.edu/costin.10/5101/Orthog%20p2-6.pdf) Theorem 6
+- [Cauchy-Schwarz equality](https://people.math.osu.edu/costin.10/5101/Orthog%20p2-6.pdf) Theorem 6 or [UCB note](https://math.berkeley.edu/~arash/54/notes/6_7.pdf)
 - [Chebyshev's inequality](https://en.wikipedia.org/wiki/Markov%27s_inequality#:~:text=%5Bedit%5D-,Chebyshev%27s%20inequality,-%5Bedit%5D)
 - [Jensen's inequality](https://en.wikipedia.org/w/index.php?title=Special:MathWikibase&qid=Q107203920)
 - [linearity of inner product](https://ccrma.stanford.edu/~jos/st/Linearity_Inner_Product.html)
