@@ -5,6 +5,7 @@ layout: default
 ## Math Notes (for my Statistical Learning Theory course)
 
 - [No Free Lunch Theorem](https://pdfs.semanticscholar.org/daa7/140e3884a661ffe7d42b24d699996b3e605a.pdf)
+- [NFL implication](https://machinelearningmastery.com/no-free-lunch-theorem-for-machine-learning/#:~:text=a%20search%20problem.-,The%20implication%20is%20that%20the%20performance%20of%20your%20favorite%20algorithm%20is%20identical%20to%20a%20completely%20naive%20algorithm%2C%20such%20as%20random%20search.,-Roughly%20speaking%20we)
 
 ### norm
 - [matrix norm](https://mathworld.wolfram.com/MatrixNorm.html)
