@@ -24,7 +24,7 @@ layout: default
 - [Hermitian matrix](https://mathworld.wolfram.com/HermitianMatrix.html)
 - [Hessian](https://mathworld.wolfram.com/Hessian.html)
 - [Jacobian](https://mathworld.wolfram.com/Jacobian.html)
-- [SVD](https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm#:~:text=The%20singular%20values%20are%20the,and%20V%20are%20also%20real.) (singular value decomposition)
+- [SVD](https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm#:~:text=The%20singular%20values%20are%20the,and%20V%20are%20also%20real.) (singular value decomposition), [Princeton note](http://pillowlab.princeton.edu/teaching/statneuro2018/slides/notes02_SVD.pdf)
 - [unitary matrix](https://mathworld.wolfram.com/UnitaryMatrix.html) (unitary basis: each row has length one, and their Hermitian inner product is zero.)
 
 ### relations
