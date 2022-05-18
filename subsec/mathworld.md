@@ -44,6 +44,6 @@ layout: default
 
 ### bounding methods
 - [Rademacher Complexity for generalization bound](https://www.cs.cmu.edu/~ninamf/ML11/lect1117.pdf)
-- [Rademacher Complexity for bounded ball in RKHS](https://web.eecs.umich.edu/~cscott/past_courses/eecs598w14/notes/15_rademacher_kernel.pdf)
+- [Rademacher Complexity for bounded ball in RKHS](https://web.eecs.umich.edu/~cscott/past_courses/eecs598w14/notes/15_rademacher_kernel.pdf), [reproducing property](https://stats.stackexchange.com/questions/424723/understanding-the-reproducing-property-of-rkhs)
 
 [back](../)
