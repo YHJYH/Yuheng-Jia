@@ -29,8 +29,10 @@ layout: default
 
 ### relations
 - [Cauchy-Schwarz inequality](https://en.wikipedia.org/wiki/Cauchy%E2%80%93Schwarz_inequality)
+- [Cauchy-Schwarz equality](https://people.math.osu.edu/costin.10/5101/Orthog%20p2-6.pdf) Theorem 6
 - [Chebyshev's inequality](https://en.wikipedia.org/wiki/Markov%27s_inequality#:~:text=%5Bedit%5D-,Chebyshev%27s%20inequality,-%5Bedit%5D)
 - [Jensen's inequality](https://en.wikipedia.org/w/index.php?title=Special:MathWikibase&qid=Q107203920)
+- [linearity of inner product](https://ccrma.stanford.edu/~jos/st/Linearity_Inner_Product.html)
 - [Markov inequality](https://en.wikipedia.org/wiki/Markov%27s_inequality#:~:text=External%20links-,Statement,-%5Bedit%5D)
 - [Mcdiarmid inequality](https://www.cs.columbia.edu/~djhsu/coms4995-s20/lectures/mcdiarmid-notes.pdf)
 
@@ -41,6 +43,7 @@ layout: default
 - [functional](https://en.wikipedia.org/wiki/Functional_(mathematics)) f → f(x)
 
 ### bounding methods
-- [Rademacher Complexity](https://www.cs.cmu.edu/~ninamf/ML11/lect1117.pdf)
+- [Rademacher Complexity for generalization bound](https://www.cs.cmu.edu/~ninamf/ML11/lect1117.pdf)
+- [Rademacher Complexity for bounded ball in RKHS](https://web.eecs.umich.edu/~cscott/past_courses/eecs598w14/notes/15_rademacher_kernel.pdf)
 
 [back](../)
