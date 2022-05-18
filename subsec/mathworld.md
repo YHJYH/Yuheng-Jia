@@ -3,6 +3,9 @@ layout: default
 ---
 
 ## Math Notes (for my Statistical Learning Theory course)
+
+- [No Free Lunch Theorem](https://pdfs.semanticscholar.org/daa7/140e3884a661ffe7d42b24d699996b3e605a.pdf)
+
 ### norm
 - [matrix norm](https://mathworld.wolfram.com/MatrixNorm.html)
     - [L1/p1 norm](https://mathworld.wolfram.com/MaximumAbsoluteColumnSumNorm.html) (Maximum Absolute Column Sum norm)
@@ -36,5 +39,7 @@ layout: default
 ### linear algebra
 - [functional](https://en.wikipedia.org/wiki/Functional_(mathematics)) f → f(x)
 
+### bounding methods
+- [Rademacher Complexity](https://www.cs.cmu.edu/~ninamf/ML11/lect1117.pdf)
 
 [back](../)
