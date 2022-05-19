@@ -8,6 +8,7 @@ layout: default
 - [NFL implication](https://machinelearningmastery.com/no-free-lunch-theorem-for-machine-learning/#:~:text=a%20search%20problem.-,The%20implication%20is%20that%20the%20performance%20of%20your%20favorite%20algorithm%20is%20identical%20to%20a%20completely%20naive%20algorithm%2C%20such%20as%20random%20search.,-Roughly%20speaking%20we)
 
 ### norm
+[inner products and norms](https://www.princeton.edu/~aaa/Public/Teaching/ORF523/S16/ORF523_S16_Lec2_gh.pdf) by Princeton.
 - [matrix norm](https://mathworld.wolfram.com/MatrixNorm.html)
     - [L1/p1 norm](https://mathworld.wolfram.com/MaximumAbsoluteColumnSumNorm.html) (Maximum Absolute Column Sum norm)
     - [L2/p2 norm](https://mathworld.wolfram.com/SpectralNorm.html) (Spectral norm)
