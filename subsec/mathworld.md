@@ -46,5 +46,8 @@ layout: default
 ### bounding methods
 - [Rademacher Complexity for generalization bound](https://www.cs.cmu.edu/~ninamf/ML11/lect1117.pdf)
 - [Rademacher Complexity for bounded ball in RKHS](https://web.eecs.umich.edu/~cscott/past_courses/eecs598w14/notes/15_rademacher_kernel.pdf), using [reproducing property](https://stats.stackexchange.com/questions/424723/understanding-the-reproducing-property-of-rkhs)
+- [strong convexity](https://xingyuzhou.org/blog/notes/strong-convexity#:~:text=Intuitively%20speaking%2C%20strong%20convexity%20means,grater%20than%20the%20linear%20growth.)
+- [Lipschitz continuous gradient](https://xingyuzhou.org/blog/notes/Lipschitz-gradient), also called **smoothness**. 
+- Above two are very related. See [Purdue note](https://www.stat.purdue.edu/~vishy/introml/notes/Optimization.pdf), [UCLA note](https://www.seas.ucla.edu/~vandenbe/236C/lectures/gradient.pdf), and []()
 
 [back](../)
