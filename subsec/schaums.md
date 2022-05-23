@@ -6,7 +6,7 @@ layout: default
 ### Chapter 1 basic probability
 mutually exclusive: $P(A_{1}\cup A_{2})=P(A_{1})+P(A_{2})$. 
 
-not mutually exclusive: $P(A_{1}\cup A_{2})=P(A_{1})+P(A_{2})-P(A_{1}\cap A_{2})$. 
+not mutually exclusive: $P(A_{1}\cup A_{2})=P(A_{1})+P(A_{2})-P(A_{1}\cap A_{2})$ . 
 
 **Bayes' theorem**: 
 $$P(A_{k}|A) = \frac{P(A|A_{k})P(A_{k})}{\sum_{j=1}{P(A|A_{j})P(A_{j})}}$$
@@ -22,7 +22,7 @@ combination:
 - $nCr = nCn-r$
 - used as **binomial coefficients** in **binomial expansion**.
 
-**Stirling's approximation** to *n!*: $n! ~ \sqrt{2\pi n}n^{n}e^{-n}$
+**Stirling's approximation** to *n!*: $n! \approx \sqrt{2\pi n}n^{n}e^{-n}$
 
 Poker cards: suits(spades黑桃♠, heart红心♥, diamonds方片♦, clubs梅花♣), rank(ace A, 2-10, jack J, queen Q, king K).<br>
 
