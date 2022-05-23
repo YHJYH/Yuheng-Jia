@@ -6,6 +6,6 @@ layout: default
 [STAT0028 Statistical Modelling and Data Analysis supplementary notes](./0028.md)<br>
 
 ## Others
-[Schuam's outlines of Probability and Statistics](./schuams.md)
+[Schaum's outlines of Probability and Statistics](./schaums.md)
 
 [back](../)
