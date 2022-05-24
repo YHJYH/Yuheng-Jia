@@ -3,6 +3,8 @@ layout: default
 ---
 # Schaum's outlines of probability and statistics
 ## Part I: probability
+- [Chapter 1 basic probability](https://github.com/YHJYH/Yuheng-Jia/blob/main/subsec/schaums.md#chapter-1-basic-probability)
+- [Chapter 3 mathematical expectation]()
 ### Chapter 1 basic probability
 **mutually exclusive**: $P(A_{1}\cup A_{2})=P(A_{1})+P(A_{2})$. 
 
@@ -34,7 +36,7 @@ Probability using combinational analysis: 注意是否**in order**, 如果not in
 
 Poker cards: suits(spades黑桃♠, heart红心♥, diamonds方片♦, clubs梅花♣), rank(ace A, 2-10, jack J, queen Q, king K).<br>
 
-
+### Chapter 3 mathematical expectation
 
 
 [back](../)
