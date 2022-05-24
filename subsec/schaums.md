@@ -39,7 +39,9 @@ Poker cards: suits(spades黑桃♠, heart红心♥, diamonds方片♦, clubs梅�
 
 ### Chapter 3 mathematical expectation
 **Theorems of expectation**:
-1. E[cX] = cE[X]
-2. <img src="https://render.githubusercontent.com/render/math?math={\color{white}\L = -\sum_{j}[T_{j}ln(O_{j})] + \frac{\lambda W_{ij}^{2}}{2} \rightarrow \text{one-hot} \rightarrow -ln(O_{c}) + \frac{\lambda W_{ij}^{2}}{2}}">
+1. E[cX] = cE[X], c is a constant.
+2. E[X+Y] = E[X] + E[Y], X and Y are random variables.
+3. E[XY] = E[X]E[Y], X and Y are independent random variables.
+4. <img src="https://render.githubusercontent.com/render/math?math={\color{white}\L = -\sum_{j}[T_{j}ln(O_{j})] + \frac{\lambda W_{ij}^{2}}{2} \rightarrow \text{one-hot} \rightarrow -ln(O_{c}) + \frac{\lambda W_{ij}^{2}}{2}}">
 
 [back](../)
