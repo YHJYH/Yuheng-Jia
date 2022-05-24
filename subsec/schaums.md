@@ -14,7 +14,7 @@ $$P(A_{k}|A) = \frac{P(A|A_{k})P(A_{k})}{\sum_{j=1}{P(A|A_{j})P(A_{j})}}$$
 **permutation**:
 - order does matter
 - number of permutations of *n* different objects taken *r* at a time: $nPr$
-- when $r=n$, $nPn=n!$ (n *factorial*)
+- when $$r=n$$, $nPn=n!$ (n *factorial*)
 - in circular permutation, a place holder is stationary, so number of ways is $(n-1)!$
 
 **combination**:
