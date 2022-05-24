@@ -22,7 +22,7 @@ $$P(A_{k}|A) = \frac{P(A|A_{k})P(A_{k})}{\sum_{j=1}{P(A|A_{j})P(A_{j})}}$$
 - when r=n, nCn=1
 - nCr = nCn-r
 - used as **binomial coefficients** in **binomial expansion**.
-- the probability of getting *x* As in *n* independent trials is: ${}_{n}C_{x}p^{x}q^{n-x}$
+- the probability of getting *x* As in *n* independent trials is: $\binom{n}{x}p^{x}q^{n-x}$
 
 Probability using combinational analysis: 注意是否**in order**, 如果not in order则用combination, in order用permutation。见Problem 1.35 (e)(f).
 
