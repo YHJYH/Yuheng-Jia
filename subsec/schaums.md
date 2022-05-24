@@ -23,6 +23,10 @@ $$P(A_{k}|A) = \frac{P(A|A_{k})P(A_{k})}{\sum_{j=1}{P(A|A_{j})P(A_{j})}}$$
 - nCr = nCn-r
 - used as **binomial coefficients** in **binomial expansion**.
 - the probability of getting *x* As in *n* independent trials is: nCx p^{x}q^{n-x} (**binomial distribution**, Problem 1.37, 1.81)
+- Case study: 
+    1. [# shortest paths on grid](https://betterexplained.com/articles/navigate-a-grid-using-combinations-and-permutations/)
+    2. [# new word from given letters](https://brainly.in/textbook-solutions/q-number-i-combinations-1?source=qa-qp-match#q-number-permutations-letters-letters-word-tennessee)
+
 
 Probability using combinational analysis: 注意是否**in order**, 如果not in order则用combination, in order用permutation。见Problem 1.35 (e)(f).
 
