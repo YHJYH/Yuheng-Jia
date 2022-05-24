@@ -4,7 +4,7 @@ layout: default
 # Schaum's outlines of probability and statistics
 ## Part I: probability
 ### Chapter 1 basic probability
-mutually exclusive: $P(A_{1}\cup A_{2})=P(A_{1})+P(A_{2})$. 
+**mutually exclusive**: $P(A_{1}\cup A_{2})=P(A_{1})+P(A_{2})$. 
 
 not mutually exclusive: $P(A_{1}\cup A_{2})=P(A_{1})+P(A_{2})-P(A_{1}\cap A_{2})$ . 
 
