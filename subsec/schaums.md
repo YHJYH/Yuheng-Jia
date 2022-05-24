@@ -12,16 +12,17 @@ not mutually exclusive: $P(A_{1}\cup A_{2})=P(A_{1})+P(A_{2})-P(A_{1}\cap A_{2})
 $$P(A_{k}|A) = \frac{P(A|A_{k})P(A_{k})}{\sum_{j=1}{P(A|A_{j})P(A_{j})}}$$
 
 **permutation**:
-- order does matter
+- order of *r* does matter
 - number of permutations of *n* different objects taken *r* at a time: nPr
 - when r=n, nPn=n! (n *factorial*)
 - in circular permutation, a place holder is stationary, so number of ways is (n-1)!
 
 **combination**:
-- order does not matter
+- order of *r* does not matter
 - when r=n, nCn=1
 - nCr = nCn-r
 - used as **binomial coefficients** in **binomial expansion**.
+- the probability of getting *x* As in *n* independent trials is: $nCx p^{x}q^{n-x}$
 
 Probability using combinational analysis: 注意是否**in order**, 如果not in order则用combination, in order用permutation。见Problem 1.35 (e)(f).
 
