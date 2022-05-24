@@ -12,6 +12,7 @@ not mutually exclusive: $P(A_{1}\cup A_{2})=P(A_{1})+P(A_{2})-P(A_{1}\cap A_{2})
 
 **Bayes' theorem**: 
 $$P(A_{k}|A) = \frac{P(A|A_{k})P(A_{k})}{\sum_{j=1}{P(A|A_{j})P(A_{j})}}$$
+application: [coin flip sequence](https://dspace.mit.edu/bitstream/handle/1721.1/70477/6-042j-fall-2002/contents/lecture-notes/cp10Fsol.pdf)
 
 **permutation**:
 - order of *r* does matter
@@ -35,6 +36,8 @@ Probability using combinational analysis: 注意是否**in order**, 如果not in
 **Stirling's approximation** to *n!*: $n! \approx \sqrt{2\pi n}n^{n}e^{-n}$.
 
 Poker cards: suits(spades黑桃♠, heart红心♥, diamonds方片♦, clubs梅花♣), rank(ace A, 2-10, jack J, queen Q, king K).<br>
+
+
 
 ### Chapter 3 mathematical expectation
 
