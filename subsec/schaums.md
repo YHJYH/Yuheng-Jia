@@ -32,7 +32,7 @@ $$P(A_{k}|A) = \frac{P(A|A_{k})P(A_{k})}{\sum_{j=1}{P(A|A_{j})P(A_{j})}}$$
 
 Probability using combinational analysis: 注意是否**in order**, 如果not in order则用combination, in order用permutation。见Problem 1.35 (e)(f).
 
-**Stirling's approximation** to *n!*: $n! \approx \sqrt{2\pi n}n^{n}e^{-n}$
+**Stirling's approximation** to *n!*: $n! \approx \sqrt{2\pi n}n^{n}e^{-n}$.
 
 Poker cards: suits(spades黑桃♠, heart红心♥, diamonds方片♦, clubs梅花♣), rank(ace A, 2-10, jack J, queen Q, king K).<br>
 
