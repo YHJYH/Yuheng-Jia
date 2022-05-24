@@ -37,9 +37,8 @@ Probability using combinational analysis: 注意是否**in order**, 如果not in
 
 Poker cards: suits(spades黑桃♠, heart红心♥, diamonds方片♦, clubs梅花♣), rank(ace A, 2-10, jack J, queen Q, king K).<br>
 
-
-
 ### Chapter 3 mathematical expectation
-
+**Theorems of expectation**:
+1. $E[cX] = cE[X]$
 
 [back](../)
