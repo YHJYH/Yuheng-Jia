@@ -13,14 +13,14 @@ $$P(A_{k}|A) = \frac{P(A|A_{k})P(A_{k})}{\sum_{j=1}{P(A|A_{j})P(A_{j})}}$$
 
 **permutation**:
 - order does matter
-- number of permutations of *n* different objects taken *r* at a time: $nPr$
-- when $r=n$, $nPn=n!$ (n *factorial*)
-- in circular permutation, a place holder is stationary, so number of ways is $(n-1)!$
+- number of permutations of *n* different objects taken *r* at a time: nPr
+- when r=n, nPn=n! (n *factorial*)
+- in circular permutation, a place holder is stationary, so number of ways is (n-1)!
 
 **combination**:
 - order does not matter
-- when $r=n$, $nCn=1$
-- $nCr = nCn-r$
+- when r=n, nCn=1
+- nCr = nCn-r
 - used as **binomial coefficients** in **binomial expansion**.
 
 Probability using combinational analysis: 注意是否**in order**, 如果not in order则用combination, in order用permutation。见Problem 1.35 (e)(f).
