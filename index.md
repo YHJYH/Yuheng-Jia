@@ -33,7 +33,7 @@ Experiments, under guidance of [Dr. Paul Walmsley](https://www.research.manchest
 ### Projects 
 Some of interesting projects I have done:
 1. Prevent Shortcut Learning in Deep Convolution Neural Networks (Master thesis, in progress)
-2. Unsupervised Opinion Summerization (NLP Project, in progress)
+2. "Further Study on the Opinion Summerization Model *PLANSUM*" (NLP Project)
 3. [Effect of task relatedness on MTL via MMOE](https://github.com/YHJYH/Machine_Learning/tree/main/projects/Multi%20Task%20Learning) (Deep Learning project)
 4. [Regularized DenseNet: with Cutout](https://github.com/YHJYH/Machine_Learning/tree/main/projects/DenseNet%20%2B%20Cutout) (Deep Learning project)
 5. [Kernel perceptron (Handwritten Digit Classification)](https://github.com/YHJYH/Machine_Learning/tree/main/projects/kernel_perceptron#kernel-perceptron-handwritten-digit-classification-comp0078-supervised-learning-coursework) (Supervised Learning project)
