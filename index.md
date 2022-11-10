@@ -1,6 +1,6 @@
 ## Welcome to my homepage
 
-You can see my LinkedIn profile here [Yuheng](https://www.linkedin.com/in/yuheng-jia-00200116b/).
+You can see my LinkedIn profile [here](https://www.linkedin.com/in/yuheng-jia-00200116b/).
 
 My ambition is to become a full-stack Machine Learning Engineer/Data Scientist, I am still working on it.
 
