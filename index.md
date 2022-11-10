@@ -2,9 +2,9 @@
 
 You can see my LinkedIn profile here [Yuheng](https://www.linkedin.com/in/yuheng-jia-00200116b/).
 
-My ambition is to become a full-stack Machine Learning Engineer, I am still working on it.
+My ambition is to become a full-stack Machine Learning Engineer/Data Scientist, I am still working on it.
 
-I currently live in London, UK, and I am looking for permanent job or internship in Machine Learning / Data Science.
+I currently live in London, UK, and WFH as a Data Scientist. I am looking for permanent full-time job in Machine Learning / Data Science.
 
 My courses at UCL are:
 1. COMP0078 Supervised Learning
@@ -18,9 +18,11 @@ My courses at UCL are:
 
 ### Education Background
 
-2021.09 - Present     _UCL_     **MSc Computational Statistics and Machine Learning**<br>
+2021.09 - 2022.09     _UCL_     **MSc Computational Statistics and Machine Learning**<br>
 Academic Supervisor: [Prof. Carlo Ciliberto](https://cciliber.github.io/).<br>
-Master Thesis (in progress): "Prevent Shortcut Learning in Deep CNN". Under guidance of Dr. Nikolay Dagaev and [Prof. Bradley C. Love](http://bradlove.org/).
+Master Thesis: "Deeper is Not Always Better: A Method to Drastically Reduce Model Complexity While Retaining Learned". Under guidance of [Dr. Nikolay Dagaev](https://scholar.google.com/citations?user=ddrMpEIAAAAJ&hl=en&oi=ao) and [Prof. Bradley C. Love](http://bradlove.org/).<br>
+NLP Project: "RES-PLANSUM: Improvement of the Opinion Summarization Model PLANSUM".<br>
+Deep Learning Project: "Effect of task relatedness on Multi-task learning via Multi-gate Mixture-of-Experts".
 
 2018.09 - 2021.06     _University of Machester_     **BSc Physics with Theoretical Physics** (_First Class with Honours_)<br>
 Academic Supervisor: [Prof. Fedor Bezrukov](https://www.hep.manchester.ac.uk/u/bezrukov/).<br>
@@ -32,7 +34,7 @@ Experiments, under guidance of [Dr. Paul Walmsley](https://www.research.manchest
 
 ### Projects 
 Some of interesting projects I have done:
-1. Prevent Shortcut Learning in Deep Convolution Neural Networks (Master thesis, in progress)
+1. ["Deeper is Not Always Better: A Method to Drastically Reduce Model Complexity While Retaining Learned"](https://github.com/YHJYH/COMP0098_21049846#deeper-is-not-always-better) (Master thesis)
 2. "Further Study on the Opinion Summerization Model *PLANSUM*" (NLP Project)
 3. [Effect of task relatedness on MTL via MMOE](https://github.com/YHJYH/Machine_Learning/tree/main/projects/Multi%20Task%20Learning) (Deep Learning project)
 4. [Regularized DenseNet: with Cutout](https://github.com/YHJYH/Machine_Learning/tree/main/projects/DenseNet%20%2B%20Cutout) (Deep Learning project)
