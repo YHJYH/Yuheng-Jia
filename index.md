@@ -49,6 +49,6 @@ Some of interesting projects I have done:
 5. [Aerial Image Segmentation with Pytorch](https://github.com/YHJYH/Machine_Learning/blob/main/projects/Aerial_Image_Segmentation.ipynb)
 
 ### Hobbies & Interests
-I enjoy learning new things.<br>
-Sports: I like playing tennis and skiing.<br>
+I enjoy learning new things and taking challenges.<br>
+Sports: I like playing tennis, hiking, and skiing.<br>
 I am a huge fan of anime series "Attack on Titan".
